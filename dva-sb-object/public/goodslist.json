@@ -1,0 +1,44 @@
+ [
+        {
+            "id": 1,
+            "name": "锤子",
+            "price": 9.9,
+            "num": 10,
+            "img_url": "../../img/锤子.png"
+        },
+        {
+            "id": 2,
+            "name": "斧头",
+            "price": 49,
+            "num": 4,
+            "img_url":"../../img/斧头.png"
+        },
+        {
+            "id": 3,
+            "name": "电钻",
+            "price": 99,
+            "num": 2,
+            "img_url":"../../img/电转.png"
+        },
+        {
+            "id": 4,
+            "name": "扳手",
+            "price": 9,
+            "num": 15,
+            "img_url":"../../img/扳手.png"
+        },
+        {
+            "id": 5,
+            "name": "砂纸",
+            "price": 499,
+            "num": 10,
+            "img_url":"../../img/砂纸.png"
+        },
+        {
+            "id": 6,
+            "name": "老虎钳",
+            "price": 19,
+            "num": 18,
+            "img_url":"../../img/老虎钳.png"
+        }
+]
